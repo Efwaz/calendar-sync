@@ -14,3 +14,7 @@ calendar-sync is a personal tool that reads my own Google Calendar and shows the
 - Access can be revoked at any time at <https://myaccount.google.com/permissions>.
 
 Contact: open an issue at <https://github.com/Efwaz/calendar-sync/issues>.
+
+## Terms of Service
+
+calendar-sync is a personal tool provided as is, without warranty of any kind. It is intended for use by its developer only. The developer is not liable for any loss or damage arising from its use. These terms may change at any time.
